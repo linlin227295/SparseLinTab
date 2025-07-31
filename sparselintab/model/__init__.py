@@ -1,0 +1,1 @@
+from sparselintab.model.sparselintab import sparselintabModel
